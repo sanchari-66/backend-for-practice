@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "this is a packagejson holding information about backend project",
   "main": "index.js",
+   
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -18,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/sanchari-66/backend-for-practice/issues"
   },
-  "homepage": "https://github.com/sanchari-66/backend-for-practice#readme"
+  "homepage": "https://github.com/sanchari-66/backend-for-practice#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
