@@ -1,0 +1,22 @@
+{
+  "name": "backend.p1",
+  "version": "1.0.0",
+  "description": "this is a packagejson holding information about backend project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanchari-66/backend-for-practice.git"
+  },
+  "keywords": [
+    "idk"
+  ],
+  "author": "century",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sanchari-66/backend-for-practice/issues"
+  },
+  "homepage": "https://github.com/sanchari-66/backend-for-practice#readme"
+}
